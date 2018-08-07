@@ -1,0 +1,6 @@
+framework module Pods_FHXCenterAlertVC_Tests {
+  umbrella header "Pods-FHXCenterAlertVC_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

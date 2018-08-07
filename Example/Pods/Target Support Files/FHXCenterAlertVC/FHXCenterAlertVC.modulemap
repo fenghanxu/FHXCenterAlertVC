@@ -1,0 +1,6 @@
+framework module FHXCenterAlertVC {
+  umbrella header "FHXCenterAlertVC-umbrella.h"
+
+  export *
+  module * { export * }
+}

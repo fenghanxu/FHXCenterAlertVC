@@ -1,0 +1,32 @@
+PODS:
+  - FHXCenterAlertVC (0.1.0):
+    - FHXColorAndFont
+    - FHXKit
+    - SnapKit
+    - Then
+  - FHXColorAndFont (0.1.0):
+    - FHXKit
+  - FHXFoundation (0.1.6)
+  - FHXKit (0.1.3):
+    - FHXFoundation
+  - SnapKit (4.0.0)
+  - Then (2.3.0)
+
+DEPENDENCIES:
+  - FHXCenterAlertVC (from `../`)
+
+EXTERNAL SOURCES:
+  FHXCenterAlertVC:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXCenterAlertVC: 15892067d6c6c0f1f1d0c7d83d8fc90e6f0e48d4
+  FHXColorAndFont: 7fe0141b9d8a81e3a2a5e8f475596d436881f2b6
+  FHXFoundation: 2e258421df559b4b1cdef4e6f0abf4fb92102ffa
+  FHXKit: 74692b3434b72aa2bc1433a6b616011c2ffe4446
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Then: ee21c97b85ff6062b9b0080c9abb1eea46743345
+
+PODFILE CHECKSUM: 998aa75da5191f8f4b871e7ef2195146c03ed2c0
+
+COCOAPODS: 1.4.0

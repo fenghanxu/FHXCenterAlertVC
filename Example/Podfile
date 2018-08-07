@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXCenterAlertVC_Example' do
+  pod 'FHXCenterAlertVC', :path => '../'
+
+  target 'FHXCenterAlertVC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
